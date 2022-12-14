@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Projects"
+        android:id="@+id/projects"
+        android:icon="@drawable/project"
+        />
+    <item android:title="Services"
+        android:id="@+id/services"
+        android:icon="@drawable/services"
+        />
+    <item android:title="Contatcs"
+        android:id="@+id/contacts"
+        android:icon="@drawable/contacts"
+        />
+</menu>
